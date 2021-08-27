@@ -9,6 +9,6 @@
 using namespace std;
 
 int main(int argc, const char * argv[]) {
-    cout << "Hello, World!\n";
+    cout << "Fight on!\n";
     return 0;
 }
